@@ -1,0 +1,6 @@
+create table tb_alunos
+(
+	id_aluno integer primary key auto_increment,
+    nome_aluno varchar(80),
+    matricula varchar(10)
+    )
