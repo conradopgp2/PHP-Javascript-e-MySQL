@@ -5,8 +5,8 @@ Aplicação utilizando o PHP 8 utilizando o pdo, Javascript com a api nativa Fet
 - XAMPP
 - MySQL Workbench
 
-```
 ## Faça o Download do XAMPP e MySQL Workbench:
+```
 https://www.apachefriends.org/pt_br/download.html
 ```
 ```
